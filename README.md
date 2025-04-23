@@ -1,4 +1,4 @@
 # First-Project
 My first git repo.
 <br>
-Author - Shradha Khapra
+Author - Pooja Anjaneyulu
